@@ -1,7 +1,10 @@
 ---
-description: VCT Partnership RFP 응답 MAS 시작
+description: "[보관소 — 실행 금지] VCT Partnership RFP 응답 MAS (paper-lab 착공 시 재설계 대상)"
 argument-hint: <팀명> <지역>
 ---
+
+> ⛔ **이 커맨드는 실행하지 마라 — paper-lab-seed는 보관소다** (README 최상단 벽 참조).
+> 훅·SOUL·MODELS 없음 = 안전장치 0. 착공은 킷 스폰 절차로만.
 
 # /rfp <팀명> <지역>
 
